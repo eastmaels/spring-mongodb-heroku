@@ -1,2 +1,2 @@
-cd C:\Users\JonathanSalatan\Desktop\github
-"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath C:\Users\JonathanSalatan\Desktop\github\mongodb\utopian
+cd C:\Users\jonathan.salatan\Desktop
+"C:\MongoDB\Server\3.4\bin\mongod.exe" --dbpath C:\Users\jonathan.salatan\Desktop\github\spring-mongodb-heroku\mongodb

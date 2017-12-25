@@ -2,7 +2,8 @@
 /build/
 /bin/
 target/
- 
+mongodb/
+
 # OS Files #
 .DS_Store
  
