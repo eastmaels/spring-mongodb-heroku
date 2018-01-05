@@ -21,7 +21,8 @@
 		sc2.init({
 			baseURL: 'https://v2.steemconnect.com',
 			app : 'familyprojects',
-			callbackURL : 'http://localhost:8080'
+			callbackURL : 'http://localhost:8080',
+			scope: ['vote', 'comment']
 		});
 		var isAuth = false;
 		var loginURL = sc2.getLoginURL();
